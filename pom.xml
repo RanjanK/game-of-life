@@ -185,7 +185,7 @@
             </dependency>
 	    <dependency>
                 <groupId>org.slf4j</groupId>
-                <artifactId>cobertura</artifactId>
+                <artifactId>slf4j-simple</artifactId>
                 <version>1.16</version>
                 <scope>test</scope>
                 <exclusions>
