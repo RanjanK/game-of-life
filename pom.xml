@@ -184,10 +184,9 @@
                 <scope>test</scope>
             </dependency>
 	    <dependency>
-                <groupId>org.slf4j</groupId>
-                <artifactId>slf4j-simple</artifactId>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>cobertura-maven-plugin</artifactId>
                 <version>1.16</version>
-                <scope>test</scope>
                 <exclusions>
       			<exclusion> 
         			<groupId>org.slf4j</groupId>
